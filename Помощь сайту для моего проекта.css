@@ -1,0 +1,32 @@
+body {
+	background-color: #000000;
+	max-width: 100%;
+}
+.test {
+	font-size: 20px;
+	color: black;
+	padding-left: 750px;
+	font-style: italic;
+}
+h1 {
+	text-align: center;
+	color: blue;
+	font-family: Verdana;
+}
+h2 {
+	text-align: center;
+	color: blue;
+	font-family: Verdana;
+}
+p {
+	color: #ffffff;
+}
+li {
+	color: #ffffff;
+}
+.testo {
+	text-align: center;
+}
+img {
+	max-width: 100%
+}
